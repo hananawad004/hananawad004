@@ -78,25 +78,7 @@ Rather than chasing trends, I prefer understanding how things work and building 
 
 ---
 
-## Featured Projects
 
-### Graduation Project Management System (GPMS)
-
-AI-powered platform for managing graduation projects.
-
-### Chirpy
-
-Twitter-inspired backend application built with Go and PostgreSQL.
-
-### Medical Appointment No-Shows Analysis
-
-Data analysis project using Python and Pandas.
-
-### Flight Booking System
-
-Java application for managing flight reservations.
-
----
 
 ## Problem Solving
 
@@ -109,40 +91,8 @@ Topics I work on include:
 - Hash Maps
 - Linked Lists
 - Trees
-- Sliding Window
 - Recursion
-- Dynamic Programming
 
-LeetCode profile:
 
-https://leetcode.com/u/HananAwad/
-
----
-
-## Currently Learning
-
-- Docker
-- CI/CD
-- System Design
-- Clean Architecture
-- Kubernetes
-
----
-
-## GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hananawad004&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hananawad004&layout=compact)
-
----
-
-## Connect With Me
-
-- LinkedIn
-- Email
-- LeetCode
-
----
 
 > Building with consistency, learning with curiosity, and growing one step at a time.
