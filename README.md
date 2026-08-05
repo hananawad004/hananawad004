@@ -2,14 +2,14 @@
 
 # Hi, I'm Hanan Awad 👋
 
-### Software Engineer | Backend Developer | Data Analyst
+### Software Engineer | Backend Developer | Data Analyst | Scientific Committee Chairperson
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=Computer+Systems+Engineer;Backend+Developer;Data+Analyst;Problem+Solver;Scientific+Committee+Chairperson" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=850&lines=Computer+Systems+Engineer;Backend+Developer;Data+Analyst;Problem+Solver;Community+Leader"/>
 
 <br>
 
-<a href="https://www.linkedin.com/](https://www.linkedin.com/in/hanan-awad-01b999310/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/hanan-awad-01b999310/">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:hanan.awad004@gmail.com">
@@ -21,7 +21,7 @@
 </a>
 
 <a href="https://github.com/hananawad004">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -30,73 +30,67 @@
 
 ## About Me
 
-I enjoy building practical software solutions and transforming ideas into well-structured applications.
+I believe that every place we pass through deserves a meaningful impact, and that creativity is an essential part of true professionalism.
 
-My interests include:
+I am a Computer Systems Engineering graduate passionate about software development, problem solving, and continuous learning. Throughout my journey, I have explored different areas of technology, including front-end, back-end, and data analysis, always seeking to grow and build a stronger foundation.
 
-- Backend development
-- Data analysis
-- System design
-- Problem solving
-- Leadership and teamwork
+I believe that knowledge is meant to be shared, and that growth is a journey that never ends. This mindset has guided my involvement in the Computer Club, where I worked to support others, share knowledge, and contribute to creating a positive impact.
+
+I don’t aim to be just a temporary presence; I strive to leave value wherever I go.
 
 ---
 
 ## 💻 Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,cpp,cs,html,css"/>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<img src="https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white"/>
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+</p>
 
 ---
 
 ## ⚙️ Frameworks & Technologies
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+<p align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nodejs,docker,postgres,git,linux"/>
 
-![Grails](https://img.shields.io/badge/Grails-00AA55?style=for-the-badge)
+</p>
 
-![REST_API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge)
+<p align="center">
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
----
 
-## 🗄️ Databases
+<img src="https://img.shields.io/badge/Grails-FF6600?style=flat-square"/>
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat-square&logo=mui&logoColor=white"/>
 
-![SQL_Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge)
+<img src="https://img.shields.io/badge/REST_API-FF6C37?style=flat-square"/>
 
----
+<img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=flat-square"/>
 
-## 🛠️ Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-![VS_Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+</p>
 
 ---
 
-## Leadership & Community
+## 📊 Data Analysis
 
-### Chairperson – Scientific Committee
+<p align="center">
 
-- Leading scientific activities and workshops.
-- Organizing educational content and resources.
-- Coordinating teamwork and technical initiatives.
+<img src="https://skillicons.dev/icons?i=py"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
+
+</p>
 
 ---
 
@@ -104,44 +98,38 @@ My interests include:
 
 ### GPMS
 
-AI-supported graduation project management platform.
+AI-powered graduation project management system.
 
 ### InternTrack
 
-A backend application built with Grails.
+Internship management platform built using Grails.
 
 ### Chirpy
 
-A Twitter-inspired backend application built with Go.
+Twitter-inspired backend application built with Go.
 
 ### AI-Agent
 
-An AI-powered application developed using Python.
+Python-based AI application.
 
-### Medical Appointment No-Shows Analysis
+### Kashop
 
-A data analysis project built with Python and Pandas.
+E-commerce platform.
 
-### ShopHub
+### Webflyx
 
-A modern front-end web application.
+Backend application focused on APIs and databases.
 
 ---
 
 ## 🧩 Problem Solving
 
-I regularly solve algorithmic problems on LeetCode.
-
-Topics include:
-
-- Arrays
-- Strings
-- Hash Maps
-- Linked Lists
-- Trees
-- Recursion
-- Sliding Window
+- LeetCode
+- Codeforces
 - Dynamic Programming
+- Trees
+- Sliding Window
+- Two Pointers
 
 ---
 
@@ -149,25 +137,14 @@ Topics include:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hananawad004&show_icons=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hananawad004&layout=compact"/>
+<img src="https://streak-stats.demolab.com?user=hananawad004&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-## 📫 Connect With Me
-
-- LinkedIn
-- Email
-- LeetCode
-- GitHub
-
----
-
 <div align="center">
 
-> Building practical solutions, solving problems, and improving every day.
+### Building practical solutions one step at a time.
 
 </div>
